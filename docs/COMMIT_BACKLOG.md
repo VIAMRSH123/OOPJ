@@ -17,7 +17,7 @@ a public portfolio**: the work was graded, so every change must be additive.
 
 ## Queue
 
-- [ ] **B1 — Top-level `README.md`.** Index every program with a one-line description and its path
+- [x] **B1 — Top-level `README.md`.** Index every program with a one-line description and its path
   (`Max`, `Prime`, `Factorial`, `Fibonacci`, `Quadratic`, `TypeCast`, `Student`/SGPA, `Book`, `ClassDemo`,
   and `Lab 3`–`Lab 10`), how to compile/run (note: many files declare `class Main`, and `Lab 6` is a
   package layout: `cie/`, `see/`), the toolchain (plain JDK, no build file), and a link to
@@ -62,3 +62,4 @@ Verified on 2026-10-24 by compiling every file with the installed JDK. Only `Qua
 ## Log
 
 2026-10-24 - audit - docs: add COMMIT_BACKLOG.md for OOPJ
+2026-11-19 - B1 - docs: add top-level README indexing every program
